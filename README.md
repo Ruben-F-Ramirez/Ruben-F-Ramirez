@@ -16,6 +16,7 @@
 <h2> Hardware Design </h2>
 
 - <b> Digital Systems Design <b>
+  - [Sequential Circuit with and/or combinational modules](https://github.com/Ruben-F-Ramirez/Seq_and_or)
   - ALU Design
   - 16-bit CPU
 
