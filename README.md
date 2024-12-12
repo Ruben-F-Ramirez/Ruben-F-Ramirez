@@ -1,48 +1,700 @@
-<h1>Hi, I'm Ruben! </h1>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
-<h2> Hardware Design </h2>
-
-- <b> Digital Systems Design <b>
-  - [Sequential Circuit with and/or combinational modules](https://github.com/Ruben-F-Ramirez/Seq_and_or)
-  - ALU Design
-  - 16-bit CPU
-
-<h2> 🤳 Connect with me:</h2>
-
-<!--[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
--->
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
-
+<!DOCTYPE HTML>
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+	Read Only by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
+<html>
+	<head>
+		<title>Hailey's Portfolio</title>	
+		<meta charset="utf-8" />
+		<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+		<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+		<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+		<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+		<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+		<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+		<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+		<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+		<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+		<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+		<link rel="manifest" href="/manifest.json">
+		<meta name="msapplication-TileColor" content="#ffffff">
+		<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+		<meta name="theme-color" content="#ffffff">
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<section id="header">
+				<header>
+					<span class="image avatar"><img src="images/karatpic.jpg" alt="" /></span>
+					<h1 id="logo"><a href="#">Hailey Thomas</a></h1>
+					<p>Senior Computer Science Major<br />
+					@ University of Houston - Clear Lake</p>
+				</header>
+				<nav id="nav">
+					<ul>
+						<li><a href="#one" class="active">About Me</a></li>
+						<li><a href="#two">Skills</a></li>
+						<li><a href="#three">Projects and Certifications</a></li>
+						<li><a href="#four">Technical Experience & Projects</a></li>
+						<li><a href="#five">CS and STEM Community Events</a></li>
+						<li><a href="#six">Contact Me</a></li>
+					</ul>
+				</nav>
+				<footer> 
+				    <ul class="icons">
+				        <li><a href="https://github.com/haileyrthomas01" class="fa fa-github"><span class="label"></span></a></li>
+				        <li><a href="https://www.linkedin.com/in/haileyrthomas01" class="fa fa-linkedin-square"><span class="label"></span></a></li>
+				        <li><a href="pdf files/Hailey_Thomas_Resume.pdf" class="fa fa-file-pdf-o"><span class="label"></span></a></li>        
+				    </ul>
+				</footer>
+			</section>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- One -->
+							<section id="one">
+								<div class="image main" data-position="center">
+									<img src="images/banner.png" alt="" />
+								</div>
+								<div class="container">
+									<header class="major">
+										<h2>About Me</h2>
+										<p>Hi! I'm Hailey, a third-year Computer Science student @ the University of Houston - Clear Lake</p>
+									</header>
+									<p>My anticipated graduation date is December 2024 with a Bachelor of Science in Computer Science. For the past seven years, I've been academically determined and willing to make sure I achieve greatness and go the extra mile. My strengths include being a hard worker, dedicated, self-motivated, organized, and working well under pressure. I'm interested in Data Analytics and earning certifications while getting my degree.</p>                                   
+									<p>While attending UHCL, I am a member of the UHCL Black Student Association, the Society of Women Engineers, the Association for Computing Machinery for Women, and the National Society for Black Engineers. I am currently learning more about Computer Science and coding. I am also attending various women in STEM conferences, finding internships to find my passion in Computer Science, and coding projects to gain experience and learn more about programming. </p>                                   
+									<p>I attended the Young Women's College Preparatory Academy during middle school. The teachers highly encouraged young women to pursue careers in STEM, so from a young age, I was interested in STEM careers. I completed an Information Technology class in 8th and 10th grade, a PAP Computer Science course in 11th grade, and an AP Computer Science A to help further my interests in Computer Science and get more experience with coding. With my curiosity for Computer Science, I took edX courses, worked on coding on Minecraft with my school, and coded on code.org many times during school. I graduated in May 2021 from Shadow Creek High School (GPA 3.67/4.00), where I was also a Dual Credit student attending Alvin Community College (GPA 3.45/4.00).</p>								
+								</div>
+							</section>
+
+						<!-- Two -->
+						<section id="two">
+						    <div class="container">
+								<h3>Skills</h3>
+									<p>Here are my current skills. I'm always working on getting more familiar with different software, certifications, and programming languages, so more will be added soon! </p>	
+								    	<head>
+										<title>Font Awesome Icons</title>
+										<meta name="viewport" content="width=device-width, initial-scale=1">
+										<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+									</head>
+							    		<ul class="feature-icons">
+										<li><i class="fa fa-code" style="color:#6B35A8"></i>  Java (using Eclipse)</li>
+										<li><i class="fa fa-code" style="color:#6B35A8"></i>  JavaScript</li>
+										<li><i class="fa fa-code" style="color:#6B35A8"></i>  Python (using IDLE, VSCode, and Spyder)</li>
+										<li><i class="fa fa-database" style="color:#6B35A8"></i>  SQL (using HeidiSQL & Oracle SQL Developer)</li>
+										<li><i class="fa fa-laptop" style="color:#6B35A8"></i>  HTML5 (using VSCode)</li>
+										<li><i class="fa fa-laptop" style="color:#6B35A8"></i>  CSS (using VSCode)</li>
+										<li><i class="fa fa-globe" style="color:#6B35A8"></i>  Geographic Information Systems "GIS" (using ArcGIS & ArcMap)</li>
+										<li><i class="fa fa-archive" style="color:#6B35A8"></i>  Microsoft Office (Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Microsoft Outlook, Microsoft Access, Microsoft OneNote, Microsoft Teams)</li>
+										<li><i class="fa fa-line-chart" style="color:#6B35A8"></i>  Power BI & Tableau</li>
+										<li><i class="fa fa-camera" style="color:#6B35A8"></i>  Adobe Products (Adobe Acrobat, Adobe Premiere Pro, Adobe After Effects, Adobe Photoshop)</li>
+										<li><i class="fa fa-book" style="color:#6B35A8"></i>  Computer Science 1 (Python) & Computer Science 2 (Java)</li>
+										<li><i class="fa fa-book" style="color:#6B35A8"></i>  Data Structures with Java & Advanced Data Structure and Algorithms with Python</li>	
+									</ul>
+								</div>
+						</section>
+
+
+						<!-- Three -->
+							<section id="three">
+								<div class="container">
+									<h3>Projects & Certifications</h3>
+									<p>Here are some projects I've worked on so far. Some are personal projects I'll work on by myself, and others are projects I've completed as assignments for my classes & programs I've attended outside of school.</p>
+									<div class="features">
+										<article>
+											<a href="https://storymaps.arcgis.com/stories/29146e9f0d69443bbdec4d6a56c9776b" class="image"><img src="images/gisdesign.png" alt="" /></a>
+											<div class="inner">
+												<h4>GIS StoryMaps - The Brief History of Hip Hop</h4>
+												<p>During my sophomore year of high school, I attended a summer program, learned about GIS, and created a GISStoryMaps about topics we found interesting. <a href="https://blog.hcde-texas.org/2019/08/05/high-school-students-learn-about-gis-storymaps/"> Here</a> is an article I was featured in. </p>											
+											</div>
+										</article>
+										<article>
+											<a href="https://storymaps.arcgis.com/stories/22bf441a82304f79828d1b47675ead5a" class="image"><img src="images/blacklitbanner.png" alt="" /></a>
+											<div class="inner">
+												<h4>GIS StoryMaps - The History of Black Literature</h4>
+												<p>During my junior year of college, I created a StoryMap on a topic I found interesting for my Fundamentals of GIS class. 
+													As part of my passion for geography and data visualization, I undertook a GIS StoryMap project to create an immersive and interactive narrative showcasing the historical and cultural significance of African-American literature. 
+													Utilizing Geographic Information Systems (GIS) technology, I integrated maps, multimedia, and textual content to trace the literary journeys of influential African-American writers. The project highlighted their impact on black literature, 
+													connecting their works to geographical locations and historical contexts. Through this project, I aimed to promote awareness of the rich heritage of African-American voices and foster a deeper appreciation for their contributions to the literary world. </p>											
+											</div>
+										</article>
+										<article>
+											<a href="https://github.com/haileyrthomas01/todolist.io" class="image"><img src="images/todolistprogram.PNG" alt="" /></a>
+											<div class="inner">
+												<h4>Tkinter To Do List Using Python</h4>
+												<p>During my sophomore year of college, we had to create a final project in my Computer Science I (CSCI 1470) class. I created a Github repository with the code and what my to-do list looks like.</p>											
+											</div>
+										</article>
+										<article>
+											<a href="https://github.com/haileyrthomas01/pythonportfolio/blob/main/calproj.py" class="image"><img src="images\calculatorpic.png" alt="" /></a>
+											<div class="inner">
+												<h4>Tkinter Calculator Using Python</h4>
+												<p>Here is a Calculator project I worked on during the summer of 2023. I wanted to create something simple, easy to use, and accurate. Clicking on the photo gives you the file with my code!</p>											
+											</div>
+										</article>
+										<article>
+											<a href="https://github.com/haileyrthomas01/pythonportfolio/blob/main/hangmangame.py" class="image"><img src="images\hangmanpic2.png" alt="" /></a>
+											<div class="inner">
+												<h4>Tkinter Hangman Game Using Python</h4>
+												<p>Here is a Hangman game I worked on during the summer of 2023. I wanted a simple look, but a challenging game for users, and I had fun creating it. Clicking on the photo gives you the file with my code!</p>											
+											</div>
+										</article>
+										<article>
+											<a href="https://github.com/haileyrthomas01/pythonportfolio/blob/main/ponggame.py" class="image"><img src="images\ponggame2.png" alt="" /></a>
+											<div class="inner">
+												<h4>Tkinter Pong Game Using Python</h4>
+												<p>Here is a Pong game I worked on during the summer of 2023. I wanted a simple look, but a fun, easy game for users, and I had fun creating it. Clicking on the photo gives you the file with my code!</p>											
+											</div>
+										</article>
+										<article>
+											<a href="https://github.com/haileyrthomas01/pythonportfolio/blob/main/rockpaperscissors.py" class="image"><img src="images\rockpaperscissors.png" alt="" /></a>
+											<div class="inner">
+												<h4>Tkinter Rock, Paper, Scissors Game Using Python</h4>
+												<p>Here is a Rock, Paper, Scissors game I worked on during the summer of 2023. I wanted to make a simple look, but a fun game for users to go against the computer, and I had fun creating it. Clicking on the photo gives you the file with my code!</p>											
+											</div>
+										</article>
+										<article>
+											<a href="https://github.com/haileyrthomas01/pythonportfolio/blob/main/tictactoe.py" class="image"><img src="images\tictactoe.png" alt="" /></a>
+											<div class="inner">
+												<h4>Tkinter Tic Tac Toe Game Using Python</h4>
+												<p>Here is a Tic Tac Toe game I worked on during the summer of 2023. I wanted to make a simple look, but a fun game for users (2 at one time), and I had fun creating it. Clicking on the photo gives you the file with my code!</p>											
+											</div>
+										</article>
+										<article>
+											<a href="https://github.com/haileyrthomas01/pythonportfolio/blob/main/passwordgenerator.py" class="image"> <img src="images\Screenshot 2023-07-03 153036.png" alt="" /></a>
+											<div class="inner">
+												<h4>Python Random Password Generator</h4>
+												<p>This a project I worked on during the summer of 2023. After running the code, you'll be able to receive a random, 16-character password.</p>											
+											</div>
+										</article>
+										<article>
+											<a href="https://github.com/haileyrthomas01/pythonportfolio/blob/main/myclock.py" class="image"><img src="images\Screenshot 2023-07-03 153734.png" alt="" /></a>
+											<div class="inner">
+												<h4>Tkinter Clock Using Python</h4>
+												<p>Here is a Clock (H:M:S) I worked on during the summer of 2023. I wanted to make it very simple and easy to use. Clicking on the photo gives you the file with my code!</p>											
+											</div>
+										</article>
+										<article>
+											<a href="https://www.codedex.io/projects/create-a-gif-with-python" class="image"><img src="images\mrfrog.gif" alt="" /></a>
+											<div class="inner">
+												<h4>Python GIF Maker</h4>
+												<p>Thanks to completing Codédex's The Legend of Python course, I was able to follow the guided tutorial to create the GIF you see below.</p>											
+											</div>
+										</article>
+										<article>
+											<a href="https://www.linkedin.com/in/haileyrthomas01/" class="image"><img src="images\summix.png" alt="" /></a>
+											<div class="inner">
+												<h4>Summer Mixtape App Using Spotify API</h4>
+												<p>This application was created using VS Code, HTML, CSS, and JavaScript. I was able to connect to the Spotify API and use the Spotify Client ID and Spotify Client Secret to use the Spotify API to generate songs based off user input. CodeAcademy's summer project and my love for music inspired me to work on this project.</p>											
+											</div>
+										</article>
+										<article>
+											<a href="https://www.codedex.io/projects/create-a-to-do-list-app-with-html-css-js" class="image"><img src="images\todolist.png" alt="" /></a>
+											<div class="inner">
+												<h4>To Do List App</h4>
+												<p>I created this to do list application with JavaScript, HTML, and CSS on VS Code. I wanted to upgrade my previous application that used Python and Tkinter to make it more user-friendly, edit tasks, add checkboxes, and of course add and delete tasks.</p>											
+											</div>
+										</article>
+										<article>
+											<a href="https://www.codedex.io/projects/build-a-pomodoro-app-with-html-css-js" class="image"><img src="images\pomodoro.png" alt="" /></a>
+											<div class="inner">
+												<h4>Pomodoro App</h4>
+												<p>This Pomodoro Timer application was created with HTML, CSS, and JavaScript. I was able to follow a Codedex tutorial on this project to create this.</p>											
+											</div>
+										</article>
+										<article>
+											<a href="https://www.codedex.io/projects/view-weather-with-html-css-js" class="image"><img src="images\weather.png" alt="" /></a>
+											<div class="inner">
+												<h4>Weather App Using Weather.com API</h4>
+												<p>I created this application using HTML, CSS, JavaScript, and Visual Studio Code. I was able to connect to weather.com's API to display the weather in Fahrenheit and a description of the weather along with an icon of the weather. I was able to follow along with Codedex's Weather Application to create this.</p>											
+											</div>
+										</article>
+										<article>
+											<a href="https://github.com/haileyrthomas01/album-finder-spotify/tree/main" class="image"><img src="images\albumfinder.png" alt="" /></a>
+											<div class="inner">
+												<h4>Album Finder using Spotify API</h4>
+												<p>I developed an interactive web application called Album Finder, utilizing the Spotify API to search and display albums from various artists. This project was built to enhance my web development skills and to gain hands-on experience with APIs and modern JavaScript frameworks. Clicking on the photo will send you to the GitHub repo!</p>											
+											</div>
+										</article>
+										<article>
+											<a href="https://www.linkedin.com/in/haileyrthomas01/details/projects/" class="image"><img src="images\airbnbdash.png" alt="" /></a>
+											<div class="inner">
+												<h4>Airbnb NYC Stats Dashboard</h4>
+												<p>Visualizes average reviews per month, total reviews, neighborhood group slicer, room type slicer, and more to provide insights into Airbnb listings in NYC.</p>											
+											</div>
+										</article>
+										<article>
+											<a href="https://www.linkedin.com/in/haileyrthomas01/details/projects/" class="image"><img src="images\amazondash.png" alt="" /></a>
+											<div class="inner">
+												<h4>Prime Video Dashboard</h4>
+												<p>Displays total titles, total ratings, genres, directors, first and last year, and more, offering a comprehensive overview of Prime Video's content.</p>											
+											</div>
+										</article>
+										<article>
+											<a href="https://www.linkedin.com/in/haileyrthomas01/details/projects/" class="image"><img src="images\dsdash.png" alt="" /></a>
+											<div class="inner">
+												<h4>Data Science Salary Dashboard</h4>
+												<p>Shows company location and job title slicers, average salary by employment type and experience level, and more, providing an in-depth look at data science salaries.</p>											
+											</div>
+										</article>
+										<article>
+											<a href="https://www.linkedin.com/in/haileyrthomas01/details/projects/" class="image"><img src="images\goodreadsdash.png" alt="" /></a>
+											<div class="inner">
+												<h4>Goodreads Stats Dashboard</h4>
+												<p>Visualizes books by publication date, top language codes, authors, publishers, and ratings, offering insights into Goodreads' book database.</p>											
+											</div>
+										</article>
+										<article>
+											<a href="https://www.linkedin.com/in/haileyrthomas01/details/projects/" class="image"><img src="images\ibmdash.png" alt="" /></a>
+											<div class="inner">
+												<h4>IBM HR Data Dashboard</h4>
+												<p>Displays employee demographics such as age, gender, hourly rate, job role, education field, and more, providing detailed HR analytics.</p>											
+											</div>
+										</article>
+										<article>
+											<a href="https://www.linkedin.com/in/haileyrthomas01/details/projects/" class="image"><img src="images\moviedash.png" alt="" /></a>
+											<div class="inner">
+												<h4>100 Most Profitable Movies Dashboard</h4>
+												<p>Shows profitability by lead studio, genre, year, and more, analyzing the financial success of top movies.</p>											
+											</div>
+										</article>
+										<article>
+											<a href="https://www.linkedin.com/in/haileyrthomas01/details/projects/" class="image"><img src="images\netflixdash.png" alt="" /></a>
+											<div class="inner">
+												<h4>Netflix Dashboard</h4>
+												<p>Highlights total titles, ratings, genres, release years, and top countries, offering insights into Netflix's content library.</p>											
+											</div>
+										</article>
+										<article>
+											<a href="https://www.linkedin.com/in/haileyrthomas01/details/projects/" class="image"><img src="images\olympicsdash.png" alt="" /></a>
+											<div class="inner">
+												<h4>Olympic Dashboard</h4>
+												<p>Features total medals by country, athletes by various metrics, and more, providing a comprehensive look at Olympic history.</p>											
+											</div>
+										</article>
+										<article>
+											<a href="https://www.linkedin.com/in/haileyrthomas01/details/projects/" class="image"><img src="images\tripadvisordash.png" alt="" /></a>
+											<div class="inner">
+												<h4>TripAdvisor Stats Dashboard</h4>
+												<p>Displays total users by continent, total hotels, average scores, hotel by stars, and more, visualizing key statistics from TripAdvisor.</p>											
+											</div>
+										</article>
+										<article>
+											<a href="https://www.linkedin.com/in/haileyrthomas01/details/projects/" class="image"><img src="images\vgdash.png" alt="" /></a>
+											<div class="inner">
+												<h4>Video Game Sales Dashboard</h4>
+												<p>Analyzes sales by continent, year, genre, platform, and publisher, providing insights into the video game industry's sales trends from 1980 to 2016.</p>											
+											</div>
+										</article>
+										<article>
+											<a href="https://www.linkedin.com/in/haileyrthomas01/details/projects/" class="image"><img src="images\applemusicdash.png" alt="" /></a>
+											<div class="inner">
+												<h4>Apple Music Dashboard</h4>
+												<p>Shows earliest and latest track release dates, country, total collections, tracks, and artists, top 10 artists and genres by track number, track explicitness, streamability, and price.</p>											
+											</div>
+										</article>
+										<article>
+											<a href="https://www.linkedin.com/in/haileyrthomas01/details/projects/" class="image"><img src="images\fentybeautydash.png" alt="" /></a>
+											<div class="inner">
+												<h4>Fenty Beauty Sales Dashboard</h4>
+												<p>Displays total orders, profit, earliest and latest order dates, gender and category dropdown slicers, quantity sold, orders per gender, total sold, unit price by product name, and total money earned by city.</p>											
+											</div>
+										</article>
+										<article>
+											<a href="https://www.linkedin.com/in/haileyrthomas01/details/projects/" class="image"><img src="images\sephoradash.png" alt="" /></a>
+											<div class="inner">
+												<h4>Sephora Sales Dashboard</h4>
+												<p>Shows total brands, products, average rating, price, brand and product name dropdown slicers, loves count, total price, love count by rating, and products by price.</p>											
+											</div>
+										</article>
+										<article>
+											<a href="https://www.linkedin.com/in/haileyrthomas01/details/projects/" class="image"><img src="images\spotifydash.png" alt="" /></a>
+											<div class="inner">
+												<h4>Spotify Streams Dashboard</h4>
+												<p>Displays total songs, genres, average tempo, energy, liveness, loudness, and danceability, with genres by total songs.</p>											
+											</div>
+										</article>
+										<article>
+											<a href="https://www.linkedin.com/in/haileyrthomas01/details/projects/" class="image"><img src="images\rapdash.PNG" alt="" /></a>
+											<div class="inner">
+												<h4>Rap/Hip-Hop Dashboard</h4>
+												<p>Visualizes total artists and tracks, earliest and latest year, artist, year, rank, and critic name slicer, gender, tracks by artists, and tracks by total critics graphs. It also features a collection of top rap albums I created in Canva.</p>											
+											</div>
+										</article>
+										<article>
+											<a class="image"><img src="images\example.png" alt="" /></a>
+											<div class="inner">
+												<h4>Music Discovery Platform: Celebrating Black Artists</h4>
+												<p>I developed a Tkinter music exploration platform focused on showcasing the talent of over 450+ African American and Black artists. Users can discover music from artists like Tyler, the Creator, Bell Biv Devoe, Michael Jackson, Missy Elliot, and SZA. 
+													Users can also discover my personal song recommendations, explore top songs, and essential albums, fostering a deeper connection with diverse musical expressions. Join me on this journey of celebrating and promoting inclusivity in music discovery!</p>											
+											</div>
+										</article>
+										<article>
+											<a href="https://devpost.com/software/nourish-net-an-online-food-relief-network" class="image"><img src="images\4.png" alt="" /></a>
+											<div class="inner">
+												<h4>Nourish Net: A Food Relief Network for College Students</h4>
+												<p>During Rewriting The Code's 4th Annual Hackathon sponsored by Black Wings Hacks, our team the DEVAS created Nourish Net, an website for an online food relief network.
+													Collaborated with Khanh Ha Nguyen, Martha Aponbiede, and Rubal Khehra to create a comprehensive website for a US Food Relief Network for College Students project using ReactJS, JavaScript, CSS, HTML, and Visual Studio Code. 
+													Designed and developed an intuitive platform aimed at addressing food insecurity among college students nationwide. 
+													Implemented features to facilitate volunteer engagement, donation drives, and access to food resources. 
+													Committed to leveraging technology to make a positive impact in the lives of students facing food insecurity.</p>											
+											</div>
+										</article>
+											<article>
+												<a href="pdf files\HaileyThomas_Accenture North America_completion_certificate.pdf" class="image"><img src="images\Screenshot 2023-05-18 092054.png" alt="" /></a>
+												<div class="inner">
+													<h4>Accenture Data Analytics and Visualization Virtual Experience</h4>
+													<p>Here is a certification I earned from Forage, an online certification-earning service that allows students to learn technical and soft skills to prepare them to get hired. The certification I earned was offered by Accenture.</p>											
+												</div>
+											</article>
+											<article>
+												<a href="pdf files\HaileyThomas_PwC Switzerland__completion_certificate.pdf" class="image"><img src="images\Screenshot 2023-05-18 190229.png" alt="" /></a>
+												<div class="inner">
+													<h4>PwC Switzerland Power BI Virtual Case Experience</h4>
+													<p>Here is a certification I earned from Forage, an online certification-earning service that allows students to learn technical and soft skills to prepare them to get hired. The certification I earned was offered by PwC Switzerland.</p>											
+												</div>
+											</article>
+											<article>
+												<a href="pdf files\MIMO CERTIFICATE.pdf" class="image"><img src="images\MIMO CERTIFICATE.jpg" alt="" /></a>
+												<div class="inner">
+													<h4>MIMO SQL Certificate of Completion</h4>
+													<p>Here is a certification I earned from Mimo. Mimo is a programming app for learning to code quickly! Mimo makes learning to code and diving into computer science intuitive and easy. Experts built our curriculum to help you learn and work 
+														on real-world projects in HTML, JavaScript, CSS, Python, and SQL.</p>											
+												</div>
+											</article>
+											<article>
+												<a href="pdf files\MIMO_Python.pdf" class="image"><img src="images\IMG_0260.jpg" alt="" /></a>
+												<div class="inner">
+													<h4>MIMO Python Certificate of Completion</h4>
+													<p>Here is a certification I earned from Mimo. Mimo is a programming app for learning to code quickly! Mimo makes learning to code and diving into computer science intuitive and easy. Experts built our curriculum to help you learn and work 
+														on real-world projects in HTML, JavaScript, CSS, Python, and SQL.</p>											
+												</div>
+											</article>
+											<article>
+												<a href="pdf files\MIMO_HTML.pdf" class="image"><img src="images\IMG_0365.jpg" alt="" /></a>
+												<div class="inner">
+													<h4>MIMO HTML Certificate of Completion</h4>
+													<p>Here is a certification I earned from Mimo. Mimo is a programming app for learning to code quickly! Mimo makes learning to code and diving into computer science intuitive and easy. Experts built our curriculum to help you learn and work 
+														on real-world projects in HTML, JavaScript, CSS, Python, and SQL.</p>											
+												</div>
+											</article>
+											<article>
+												<a href="pdf files\celestialhailey_s profile _ Codecademy_sql.pdf" class="image"><img src="images\celestialhailey_s profile _ Codecademy_sql.jpg" alt="" /></a>
+												<div class="inner">
+													<h4>Codeacademy Learn SQL Course Certificate of Completion</h4>
+													<p>Here is a certification I earned from Codeacademy. In this SQL course, I learned how to manage large datasets and analyzed real data using the standard data management language.</p>											
+												</div>
+											</article>
+											<article>
+												<a href="pdf files\celestialhailey_s profile _ Codecademy_r.pdf" class="image"><img src="images\celestialhailey_s profile _ Codecademy_r.jpg" alt="" /></a>
+												<div class="inner">
+													<h4>Codeacademy Learn R Course Certificate of Completion</h4>
+													<p>Here is a certification I earned from Codeacademy. In this R course, I learned how to code and clean and manipulate data for analysis and visualization with the R programming language.</p>											
+												</div>
+											</article>
+											<article>
+												<a href="https://www.freecodecamp.org/certification/hrthomas/data-analysis-with-python-v7" class="image"><img src="images\freecodecamp.png" alt="" /></a>
+												<div class="inner">
+													<h4>freeCodeCamp Data Analysis with Python Certificate of Completion</h4>
+													<p>Here is a certification I earned from freeCodeCamp. In this Python course, I learned how to complete data analysis with the Python programming language and completed projects. Links to the projects are on my GitHub profile.</p>											
+												</div>
+											</article>
+											<article>
+												<a href="https://www.linkedin.com/in/haileyrthomas01/details/certifications/" class="image"><img src="images\cfg_data.jpg" alt="" /></a>
+												<div class="inner">
+													<h4>Code First Girls -  Intro to Data MOOC Certificate</h4>
+													<p>Here is a certification I earned from Code First Girls. In this SQL course, I learned simple SQL, the importance of data visualization and interpretation, and how to write SQL queries.</p>											
+												</div>
+											</article>
+											<article>
+												<a href="https://www.linkedin.com/in/haileyrthomas01/details/certifications/" class="image"><img src="images\Codedex_Python_Certificate.png" alt="" /></a>
+												<div class="inner">
+													<h4>Codédex The Legend of Python Certificate</h4>
+													<p>Here is a certification I earned from Codédex. In this Python course, I learned simple Python, practiced writing code on their IDE and Visual Studio Code, worked on projects, and coursework.</p>											
+												</div>
+											</article>
+											<article>
+												<a href="pdf files/ibmintrotodataanalytics.pdf" class="image"><img src="images\ibmintrotodataanalytics.png" alt="" /></a>
+												<div class="inner">
+													<h4>Coursera IBM Introduction to Data Analysis Certificate</h4>
+													<p>Here is a certification I earned from Coursera during summer 2024. In this course, I learned more about the basis of data analysis, the data lifestyle, the data processes, worked on projects, and coursework.</p>											
+												</div>
+											</article>
+											<article>
+												<a href="pdf files/ibmexcelbasics.pdf" class="image"><img src="images\ibmexcelbasics.png" alt="" /></a>
+												<div class="inner">
+													<h4>Coursera IBM Excel Basics for Data Analysis Certificate</h4>
+													<p>Here is a certification I earned from Coursera during summer 2024. In this Excel course, I learned simple how to use functions, how to perform data analysis with Excel, pivot tables, the different visuals, how to make dashboards with Excel, worked on projects, and coursework.</p>											
+												</div>
+											</article>
+										<article>
+												<a href="pdf files/Microsoft Power BI Data Analyst Certificate.pdf" class="image"><img src="images/Microsoft Power BI Data Analyst Certificate.png" alt="" /></a>
+												<div class="inner">
+													<h4>Microsoft Power BI Data Analyst Coursera Certificate</h4>
+													<p>The Microsoft Power BI Data Analyst Coursera Certificate provides learners with comprehensive skills in using Power BI for data analysis and visualization. The course covers essential topics such as data preparation, model building, data visualization, and dashboard creation. By completing this certification, students gain practical experience and become proficient in creating insightful reports and dashboards, enabling them to make data-driven decisions effectively.</p>											
+												</div>
+											</article>
+										<article>
+												<a href="pdf files/Preparing Data for Analysis with Microsoft Excel.pdf" class="image"><img src="images/Preparing Data for Analysis with Microsoft Excel.png" alt="" /></a>
+												<div class="inner">
+													<h4>Preparing Data for Analysis with Microsoft Excel</h4>
+													<p>Here is a certification I earned from Coursera during summer 2024. Part of the Microsoft Data Analyst Power BI specialization, this course teaches essential Excel skills to clean, organize, and prepare data for analysis, making it ready for advanced data visualization and reporting.</p>											
+												</div>
+											</article>
+										<article>
+												<a href="pdf files/Harnessing the Power of Data with Power BI.pdf" class="image"><img src="images\Harnessing the Power of Data with Power BI.png" alt="" /></a>
+												<div class="inner">
+													<h4>Harnessing the Power of Data with Power BI</h4>
+													<p>Here is a certification I earned from Coursera during summer 2024. Part of the Microsoft Data Analyst Power BI specialization, this course helps you discover how to leverage Power BI to transform raw data into insightful visualizations and interactive dashboards that drive business decisions.</p>											
+												</div>
+											</article>
+										<article>
+												<a href="pdf files/Extract, Transform and Load Data in Power BI" class="image"><img src="images\Extract, Transform and Load Data in Power BI.png" alt="" /></a>
+												<div class="inner">
+													<h4>Extract, Transform and Load Data in Power BI</h4>
+													<p>Here is a certification I earned from Coursera during summer 2024. Part of the Microsoft Data Analyst Power BI specialization, this course covers mastering the ETL process in Power BI, including importing data from various sources, transforming it, and loading it into your data models for analysis.</p>											
+												</div>
+											</article>
+										<article>
+												<a href="pdf files/Data Modeling in Power BI.pdf" class="image"><img src="images\Data Modeling in Power BI.png" alt="" /></a>
+												<div class="inner">
+													<h4>Data Modeling in Power BI</h4>
+													<p>Here is a certification I earned from Coursera during summer 2024. Part of the Microsoft Data Analyst Power BI specialization, this course provides expertise in creating and managing data models in Power BI, enabling you to structure your data efficiently for accurate and meaningful analysis.</p>											
+												</div>
+											</article>
+										<article>
+												<a href="pdf files/ibmexcelbasics.pdf" class="image"><img src="images\Data Analysis and Visualization with Power BI.png" alt="" /></a>
+												<div class="inner">
+													<h4>Data Analysis and Visualization with Power BI</h4>
+													<p>Here is a certification I earned from Coursera during summer 2024. Part of the Microsoft Data Analyst Power BI specialization, this course develops your skills in analyzing data and creating compelling visualizations using Power BI's advanced tools and features to convey insights effectively.</p>											
+												</div>
+											</article>
+										<article>
+												<a href="pdf files/Creative Designing in Power BI.pdf" class="image"><img src="images\Creative Designing in Power BI.png" alt="" /></a>
+												<div class="inner">
+													<h4>Creative Designing in Power BI</h4>
+													<p>Here is a certification I earned from Coursera during summer 2024. Part of the Microsoft Data Analyst Power BI specialization, this course explores creative design techniques in Power BI to build visually appealing and user-friendly reports and dashboards that captivate your audience.</p>											
+												</div>
+											</article>
+										<article>
+												<a href="pdf files/Deploy and Maintain Power BI Assets and Capstone.pdf" class="image"><img src="images/Deploy and Maintain Power BI Assets and Capstone.png" alt="" /></a>
+												<div class="inner">
+													<h4>Deploy and Maintain Power BI Assets and Capstone project</h4>
+													<p>Here is a certification I earned from Coursera during summer 2024. Part of the Microsoft Data Analyst Power BI specialization, this course teaches best practices for deploying and maintaining Power BI reports and dashboards, culminating in a capstone project that showcases your skills.</p>											
+												</div>
+											</article>
+										<article>
+												<a href="pdf files/Microsoft PL-300 Exam Preparation and Practice.pdf" class="image"><img src="images\Microsoft PL-300 Exam Preparation and Practice.png" alt="" /></a>
+												<div class="inner">
+													<h4>Microsoft PL-300 Exam Preparation and Practice</h4>
+													<p>Here is a certification I earned from Coursera during summer 2024. Part of the Microsoft Data Analyst Power BI specialization, this course prepares you for the Microsoft PL-300 exam with focused study materials and practice exercises designed to ensure you pass and achieve your Power BI certification.</p>											
+												</div>
+											</article>
+											<article>
+												<a href="pdf files\Hailey Thomas' Course Selection.pdf" class="image"><img src="images/collegeclasses.png" alt="" /></a>
+												<div class="inner">
+													<h4>Courses I've Completed</h4>
+													<p>While in high school, I was also a Dual Credit student, taking college and high-school-level classes. Once I graduated high school, I already completed my first year of college. My Alvin Community College GPA (GPA 3.45/4.00). Once I graduated high school
+														in 2021, I started completing my required course and elective for my major. Clicking the photo will show you my relevant courses I've taken.
+													</p>											
+												</div>
+											</article>
+											
+									</div>
+									</div>
+							</section>
+												<!-- Four -->
+												<section id="four">
+													<div class="container">
+														<h3>Technical Experience & Projects</h3>
+														<p>Here are some of the projects I've worked on during my technical experience. From internships, part-time, to full-time, I've worked on projects throughout my employment that have assisted in sharpening my Data Analytics skills.</p>
+														<div class="features">
+															<article>
+																<a href="https://www.mississippipower.com/" class="image"><img src="images\2560px-Mississippi_Power_logo_(2016).svg.png" alt="" /></a>
+																<div class="inner">
+																	<h4>2023 Mississippi Power Company - Power Delivery Intern </h4>
+																	<p>During my junior year of college, I attended a summer internship with Mississippi Power Company (MPC) in Gulfport, MS where I performed weekly tasks related to applications used, ensuring they smooth functioning and resolving any issues that arose, 
+																	assisted in installing software and troubleshooting hardware for field mobile computers, ensuring optimal performance, utilized Oracle SQL Developer to create queries assigned by management, effectively extracting and manipulating data, 
+																	designed Power BI dashboards using SQL assigned queries, providing insightful visualizations for data analysis, assisted with adding, removing, and updating features on ArcMap using GIS, contributing to accurate and up-to-date mapping, collaborated in creating, maintaining, 
+																	and validating the accuracy of reports, ensuring data integrity, posting updates to the Distribution GIS database, ensuring accurate and timely information for stakeholders, creating specialized map products, delivering high-quality visual representations of geospatial data, 
+																	and successfully reconciled data conflicts, ensuring consistency and accuracy in database records.</p>											
+																</div>
+															</article>
+															<article>
+																<a href="https://www.linkedin.com/in/haileyrthomas01/details/projects/" class="image"><img src="images\faes1.png" alt="" /></a>
+																<a href="https://www.linkedin.com/in/haileyrthomas01/details/projects/" class="image"><img src="images\faes2.png" alt="" /></a>
+																<div class="inner">
+																	<h4>MPC FAES Form Completion Project (2023 MPC Power Delivery Internship) </h4>
+																	<p>Over 5500 work orders needed to be completed. The primary goal of the MPC FAES Form completion project was to edit, add, and remove features on the DistGIS ArcMap from work orders received from service men and line crew. 
+																	I leveraged my GIS and workflow automation expertise during the project using tools like ArcMap. I also use problem-solving skills to identify accurate locations and interpret work orders. 
+																	The successful completion of the MPC FAES Form Completion Project led to improved operational efficiency, reduced time duration of completing past work orders, more accurate NLC processing, and increased knowledge of completing work orders. 
+																	Pictured is a visual representation of the FAES data collected. Clicking on the photo will take you to a link to my LinkedIn projects that includes all the details about the data I collected.</p>
+																</div>
+															</article>
+															<article>
+																<a href="https://www.linkedin.com/in/haileyrthomas01/details/projects/" class="image"><img src="images\jets.png" alt="" /></a>
+																<div class="inner">
+																	<h4>MPC Jets Form Completion Project (2023 MPC Power Delivery Internship) </h4>
+																	<p>The primary goal of the MPC JETS Form completion project was to edit, add, and remove features on the DistGIS ArcMap from work orders received from service men and line crew. 
+																	I leveraged my GIS and workflow automation expertise during the project using tools like ArcMap. I also use problem-solving skills to identify accurate locations and interpret work orders. 
+																	The successful completion of the MPC JETS Form Completion Project led to improved operational efficiency, reduced time duration of completing past work orders, more accurate NLC processing, and increased knowledge of completing work orders. 
+																	Pictured is a visual representation of the JETS data collected. Clicking on the photo will take you to a link to my LinkedIn projects that includes all the details about the data I collected.</p>
+																</div>
+															</article>
+															<article>
+																<a href="https://www.linkedin.com/in/haileyrthomas01/details/projects/" class="image"><img src="images\transformer.png" alt="" /></a>
+																<a href="https://www.linkedin.com/in/haileyrthomas01/details/projects/" class="image"><img src="images/lights.png" alt="" /></a>
+																<div class="inner">
+																	<h4>MPC Power BI Dashboard Project (2023 MPC Power Delivery Internship)</h4>
+																	<p>The primary goal of the MPC Power BI Dashboard Project was to visualize data collected from SQL queries created on Oracle SQL Developer. I leveraged my SQL and data visualization expertise during the project using tools like Power BI and Oracle SQL Developer. 
+																	I also utilized my strong problem-solving skills to identify accurate data and interpret how to create understandable visuals. The successful completion of the MPC Power BI Dashboard Project led to improved management understanding, accurate data visualizations for recent data collected, 
+																	more experience working with SQL, and increased knowledge of creating dashboards. Pictured is the Transformer page of my MPC Power BI Dashboard. Clicking on the photo will take you to a link to my LinkedIn projects where I have images of the other pages I worked on.</p>
+																</div>
+														</article>
+														<article>
+																<a href="https://www.linkedin.com/in/haileyrthomas01/details/projects/" class="image"><img src="images/mpcgisstats.png" alt="" /></a>
+																<div class="inner">
+																	<h4>MPC Automation Device Count Power BI Dashboard Project (2023 and 2024 MPC Power Delivery Internship)</h4>
+																	<p>I am delighted to present my latest project, the Automation Device Count Power BI Dashboard. This project showcases my expertise in data analytics and proficiency in Power BI to streamline and optimize power distribution systems.  
+																	I created 35 SQL queries that would display the information you see pictured. 
+																	This comprehensive dashboard enables real-time monitoring and analysis of critical automation devices, providing valuable insights for optimizing power distribution efficiency and ensuring a reliable power supply to our customers. 
+																	The dynamic visualizations and interactive features empower our team to make data-driven decisions and identify opportunities for improvement. I am proud to have contributed to this project and our organization's commitment to innovation in the energy sector. 
+																	This dashboard reflects our dedication to delivering exceptional results and driving positive change. Pictured is the first page of my MPC Automation Device Count Power BI Dashboard. 
+																	Clicking on the photo will take you to a link to my LinkedIn projects where I have images of the other pages I worked on.</p>
+																	</div>
+														</article>
+														<article>
+																<a href="https://www.linkedin.com/in/haileyrthomas01/details/projects/" class="image"><img src="images\outage.png" alt="" /></a>
+																<div class="inner">
+																	<h4>MPC Customer Outage Dashboard Project (2024 MPC Power Delivery Internship)</h4>
+																	<p>During my internship in 2024, I had the opportunity to develop a Power BI Dashboard for Mississippi Power Company, demonstrating proficiency in data analytics using Power BI and Oracle SQL Developer and ensured the solution offers contextually appropriate feedback for different selection scenarios, enhancing user experience and reporting accuracy. 
+																	I linked slicers to key performance indicators (KPIs) including totCustActive, percentRestored, TotCustExperiencingOutage, TotCustRestored, totEventsActive, and TotalOutages values. 
+																	I also implemented adjustments to accommodate user-selected date ranges and specific hourly intervals for enhanced data analysis and developed a dynamic Power BI measure to display custom titles reflecting user-selected date and time ranges, providing formatted summaries including 'Storm Start Time' and 'Report Time' based on slicer selections.</p>
+														</div>
+														</article>
+														<article>
+																<a href="https://www.linkedin.com/in/haileyrthomas01/details/projects/" class="image"><img src="images\entities.png" alt="" /></a>
+																<a href="https://www.linkedin.com/in/haileyrthomas01/details/projects/" class="image"><img src="images\attachments.png" alt="" /></a>
+																<div class="inner">
+																	<h4>MPC Poles and Attachment Dashboard Project (2024 MPC Power Delivery Internship)</h4>
+																	<p>During my internship in 2024, in a project for Mississippi Power of Southern Company, I developed an automated and comprehensive dashboard that revolutionizes the way we manage and analyze our infrastructure assets. 
+																		This robust tool provides a granular view of MPC Poles, AT&T Poles, and various attachments, enabling detailed monitoring across Coast, Pinebelt, and Meridian divisions. 
+																		The dashboard intricately displays data on AT&T Attachments on MPC Poles, CTV Attachments on MPC Poles, poles with both AT&T and CTV Attachments, poles with singular AT&T Attachments, poles with exclusively CTV Attachments, MPC Poles without other attachments, and other miscellaneous attachments, ensuring a comprehensive infrastructure overview.
+																		The implementation of this dashboard has significantly streamlined our data management processes, saving time and enhancing the precision of our infrastructure assessments. It has empowered Southern Company with the capability to make proactive, data-driven decisions, thereby improving our operational responsiveness and strategic planning. 
+																		This project not only demonstrates my technical acumen in leveraging Oracle SQL Developer and advanced data visualization tools but also highlights my commitment to fostering technological innovation that drives organizational efficiency and success.</p>
+														</div>
+														</article>
+													</section>
+						
+												<!-- Five -->
+												<section id="five">
+													<div class="container">
+														<h3>CS and STEM Community Events I've Attended</h3>
+																<p>Here are some of the STEM-related programs, conferences, academies, and events that I've attended. As there are pictures of my attendance, clicking on them will send you to the website for more information about each event.</p>
+																<div class="features">
+																	<article>
+																		<a href="https://www.southernautomotivewomen.org/2021conference-speakers/" class="image"><img src="images/IMG_0674.jpg" alt="" /></a>
+																		<div class="inner">
+																			<h4>2021 Southern Automotive Women's Forum Annual Meeting</h4>
+																			<p>Here is a picture of one of the members of the SAWF and me at the SAWF in Louisville, KY, in 2019. I won a scholarship from SAWF and was able to attend the organization's meeting.</p>
+																		</div>
+																		</article>
+																		<article>
+																			<a href="https://et.engr.iupui.edu/infofor/community/summer-camps/power-camp.php" class="image"><img src="images/purduepowercamp.jpeg" alt="" /></a>
+																			<div class="inner">
+																				<h4>2019 Purdue IUPUI P.O.W.E.R. (Preparing Outstanding Women For Engineering Roles) Senior Academy</h4>
+																				<p>While in high school, I participated in the POWER Senior Academy. I learned about applying for college, finding scholarships, what to expect in collegiate-level classes, and more. POWER Senior Academy also emphasized research, so I participated in a week-long research project with some of IUPUI’s award-winning faculty and staff.</p>													
+																			</div>
+																		</article>
+																		<article>
+																			<a href="https://www.gulfcoastcc.org/event/women-in-industry-conference-2022/" class="image"><img src="images/IMG_3300.jpg" alt="" /></a>
+																			<div class="inner">
+																				<h4>2022 Women in Industry Conference</h4>
+																				<p>While in college, I attended the Women In Industry Galveston Conference in 2022 and learned about different jobs and fields in the oil, gas, and pipeline industry. I met with different recruiters, attended different career workshops, talked with different employers, and watched as many women in the industry spoke about their careers and experiences.</p>													
+																			</div>
+																		</article>
+																		<article>
+																			<a href="https://we22.swe.org/" class="image"><img src="images/we22-1.png" alt="" /></a>
+																			<div class="inner">
+																				<h4>2022 Society of Women Engineers Houston Career Fair</h4>
+																				<p>While in college, I attended the 2022 Society of Women Engineers Houston Career Fair and learned about different jobs and fields in the technology industry. I met with different recruiters, attended career workshops, and talked with employers about internships, jobs, and each employee's experience with different companies. I talked to recruiters from Deloitte, CashApp, HP, Apple, AWS, Nike, American Express, HEB, Walmart, and more!</p>													
+																			</div>
+																		</article>
+																		<article>
+																			<a href="https://convention.nsbe.org/" class="image"><img src="images/nsbe49.jpg" alt="" /></a>
+																			<div class="inner">
+																				<h4>2023 National Society for Black Engineers 49th Annual Convention</h4>
+																				<p>I attended the National Society for Black Engineers' 49th Annual Convention while in college. I learned about different jobs and fields in the technology industry, networked with recruiters and other NSBE members, had on-site interviews with two companies, and went to hospitality suites and panels to learn information about how to negotiate job offers. I met with different recruiters, attended career workshops, and talked with employers about getting internships, jobs, and each employee's experience with different companies. I talked to recruiters from Southern Company, Trane Technologies, HP, Apple, AWS, Wells Fargo, American Express, Karat, Dow, and more!</p>													
+																			</div>
+																		</article>
+																		<article>
+																			<a href="https://rewritingthecode.org/black-wings-hacks-2024/" class="image"><img src="images/5.png" alt="" /></a>
+																			<div class="inner">
+																				<h4>Rewriting the Code Black Wings Hacks Hackathon 2024</h4>
+																				<p>As a proud member of Rewriting the Code since May 2023, I attended Rewriting the Code's Black Wings Hacks Hackathon 2024 while in college. I learned the fields in the technology industry, networked with other college women and other RTC Black Wings members, had on-site interviews with two companies, and went to hospitality suites and panels to learn information about how to negotiate job offers. I met with different recruiters, attended career workshops, and listened to employers talk about getting internships, jobs, and each employee's experience with different companies. During the Hackathon I collaborated with my team members Khanh Ha Nguyen, Martha Aponbiede, and Rubal Khehra to create a comprehensive website for a US Food Relief Network for College Students project using ReactJS.</p>													
+																			</div>
+																		</article>
+																	</div>
+																</div>
+												</section>
+
+
+						<!-- Six -->
+							<section id="six">
+								<div class="container">
+									<h3>Contact Me</h3>
+									<p>Would you like to connect and network with me? Do you have any questions? Leave a message, and I'll reply as soon as possible. </p>									
+									<form method="post" action="#">
+										<div class="row gtr-uniform">
+											<div class="col-6 col-12-xsmall"><input type="text" name="name" id="name" placeholder="Name" /></div>
+											<div class="col-6 col-12-xsmall"><input type="email" name="email" id="email" placeholder="Email" /></div>
+											<div class="col-12"><input type="text" name="subject" id="subject" placeholder="Subject" /></div>
+											<div class="col-12"><textarea name="message" id="message" placeholder="Message" rows="6"></textarea></div>
+											<div class="col-12">
+												<ul class="actions">
+													<li><input type="submit" class="primary" value="Send Message" /></li>
+													<li><input type="reset" value="Reset Form" /></li>
+												</ul>
+											</div>
+										</div>
+									</form>
+								</div>
+							</section>
+
+					</div>
+
+				<!-- Footer -->
+					<section id="footer">
+						<div class="container">
+							<ul class="copyright">
+								<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+							</ul>
+						</div>
+					</section>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
