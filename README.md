@@ -13,6 +13,9 @@
 - <b>Python</b>
  <!-- - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 -->
+- <b>C</b>
+
+
 <h2> Hardware Design </h2>
 
 - <b> Digital Systems Design <b>
