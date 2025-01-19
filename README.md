@@ -21,8 +21,8 @@
 
 - <b> Digital Systems Design <b>
   - [Sequential Circuit with and/or combinational modules](https://github.com/Ruben-F-Ramirez/Seq_and_or)
-  - ALU Design
-  - 16-bit CPU
+  - [16-bit CPU](https://github.com/Ruben-F-Ramirez/CPU-Design)
+  - [ALU Design](https://github.com/Ruben-F-Ramirez/ALU-Design)
 
 <h2> 🤳 Connect with me:</h2>
 
