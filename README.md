@@ -23,6 +23,10 @@
   - [Sequential Circuit with and/or combinational modules](https://github.com/Ruben-F-Ramirez/Seq_and_or)
   - [16-bit CPU](https://github.com/Ruben-F-Ramirez/CPU-Design)
   - [ALU Design](https://github.com/Ruben-F-Ramirez/ALU-Design)
+<h2> Web Development </h2>
+
+- <b> HTML and CSS <b>
+  - [My Portfolio Page](https://github.com/Ruben-F-Ramirez/My-Portfolio)
 
 <h2> 🤳 Connect with me:</h2>
 
