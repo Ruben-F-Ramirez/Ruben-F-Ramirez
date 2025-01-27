@@ -7,6 +7,7 @@
 - <b>C</b>
 - <b>Java</b>
   - [Simple Card Game](https://github.com/Ruben-F-Ramirez/Java-card-game)
+  - [Grade Sorter](https://github.com/Ruben-F-Ramirez/Java-Grade-Sorter)
 
 
 <h2> Hardware Design </h2>
