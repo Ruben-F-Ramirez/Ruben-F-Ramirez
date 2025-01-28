@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python</b>
-
+  - [Range Method Example](https://github.com/Ruben-F-Ramirez/range-method)
 - <b>C</b>
 - <b>Java</b>
   - [Simple Card Game](https://github.com/Ruben-F-Ramirez/Java-card-game)
