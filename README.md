@@ -4,6 +4,7 @@
 
 - <b>Python</b>
   - [Range Method Example](https://github.com/Ruben-F-Ramirez/range-method)
+  - [User Input Example](https://github.com/Ruben-F-Ramirez/User-Input-Example)
 - <b>C</b>
 - <b>Java</b>
   - [Simple Card Game](https://github.com/Ruben-F-Ramirez/Java-card-game)
