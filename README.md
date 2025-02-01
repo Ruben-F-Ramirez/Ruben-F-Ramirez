@@ -2,14 +2,14 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Python</b>
+- <b>[Python](https://github.com/Ruben-F-Ramirez/Python-Projects)</b>
   - [Range Method Example](https://github.com/Ruben-F-Ramirez/range-method)
   - [User Input Example](https://github.com/Ruben-F-Ramirez/User-Input-Example)
-- <b>C</b>
+- <b>[C](https://github.com/Ruben-F-Ramirez/C-Projects)</b>
   - [Clock/Calendar app](https://github.com/Ruben-F-Ramirez/alarm-clock)
   - [Stack Implementation](https://github.com/Ruben-F-Ramirez/C-Stack)
   - [Postfix Expression](https://github.com/Ruben-F-Ramirez/Postfix-Expressions)
-- <b>Java</b>
+- <b>[Java](https://github.com/Ruben-F-Ramirez/Java-Projects)</b>
   - [Simple Card Game](https://github.com/Ruben-F-Ramirez/Java-card-game)
   - [Grade Sorter](https://github.com/Ruben-F-Ramirez/Java-Grade-Sorter)
 
