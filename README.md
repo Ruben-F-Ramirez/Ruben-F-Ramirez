@@ -8,6 +8,7 @@
 - <b>C</b>
   - [Clock/Calendar app](https://github.com/Ruben-F-Ramirez/alarm-clock)
   - [Stack Implementation](https://github.com/Ruben-F-Ramirez/C-Stack)
+  - [Postfix Expression](https://github.com/Ruben-F-Ramirez/Postfix-Expressions)
 - <b>Java</b>
   - [Simple Card Game](https://github.com/Ruben-F-Ramirez/Java-card-game)
   - [Grade Sorter](https://github.com/Ruben-F-Ramirez/Java-Grade-Sorter)
