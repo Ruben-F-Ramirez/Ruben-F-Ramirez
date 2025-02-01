@@ -7,6 +7,7 @@
   - [User Input Example](https://github.com/Ruben-F-Ramirez/User-Input-Example)
 - <b>C</b>
   - [Clock/Calendar app](https://github.com/Ruben-F-Ramirez/alarm-clock)
+  - [Stack Implementation](https://github.com/Ruben-F-Ramirez/C-Stack)
 - <b>Java</b>
   - [Simple Card Game](https://github.com/Ruben-F-Ramirez/Java-card-game)
   - [Grade Sorter](https://github.com/Ruben-F-Ramirez/Java-Grade-Sorter)
