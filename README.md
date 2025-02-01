@@ -6,6 +6,7 @@
   - [Range Method Example](https://github.com/Ruben-F-Ramirez/range-method)
   - [User Input Example](https://github.com/Ruben-F-Ramirez/User-Input-Example)
 - <b>C</b>
+  - [Clock/Calendar app](https://github.com/Ruben-F-Ramirez/alarm-clock)
 - <b>Java</b>
   - [Simple Card Game](https://github.com/Ruben-F-Ramirez/Java-card-game)
   - [Grade Sorter](https://github.com/Ruben-F-Ramirez/Java-Grade-Sorter)
