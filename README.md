@@ -19,6 +19,7 @@
 - <b>[Java](https://github.com/Ruben-F-Ramirez/Java-Projects)</b>
   - [Simple Card Game](https://github.com/Ruben-F-Ramirez/Java-card-game)
   - [Grade Sorter](https://github.com/Ruben-F-Ramirez/Java-Grade-Sorter)
+  - [School Employee Manager](https://github.com/Ruben-F-Ramirez/Class-Manager)
 
 
 <h2> Hardware Design </h2>
