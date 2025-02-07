@@ -26,6 +26,7 @@
 
 - <b> Digital Systems Design Verilog Projects <b>
     - [Sequential Circuit with and/or combinational modules](https://github.com/Ruben-F-Ramirez/Seq_and_or)
+    - [Quad-Core Floating Point Unit](https://github.com/Ruben-F-Ramirez/Quad-Core-FPU)
 - <b> Digital Systems Design VHDL Projects <b>
     - [16-bit CPU](https://github.com/Ruben-F-Ramirez/CPU-Design)
     - [ALU Design](https://github.com/Ruben-F-Ramirez/ALU-Design)
